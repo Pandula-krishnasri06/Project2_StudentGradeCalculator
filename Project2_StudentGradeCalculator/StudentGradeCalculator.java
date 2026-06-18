@@ -19,7 +19,7 @@ public class StudentGradeCalculator {
             grade="A+";
         }
         else if(average>=80){
-            grade = "A";
+            '[]grade = "A";
         }
         else if(average>=70){
             grade ="B";
